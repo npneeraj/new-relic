@@ -1,6 +1,6 @@
 # ignore these files
 *.tfstate
 *.tfstate.backup
-*.lock.hcl
+*.terraform.lock.hcl
 # ignore ALL files in directory named .terraform
 .terraform/
